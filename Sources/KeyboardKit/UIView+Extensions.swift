@@ -1,6 +1,4 @@
 import UIKit
-import SnapKit
-import KeyboardKit
 
 extension UIView {
     public static func animate(with keyboard: Keyboard, animations: @escaping () -> Void) {
